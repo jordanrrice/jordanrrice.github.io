@@ -2,11 +2,11 @@ title: Jordan Rice # your name (or website title) here
 logo: "IMG_4740.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Test Initial
-  
+   <br><br>
   Line One
-  
+   <br><br>
   Line Two
-  
+   <br><br>
   Line Three
   <br><br>
   Second description 
@@ -21,4 +21,4 @@ description: > # your text below (remove <br> elements if you don't need line br
 theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-BSVYPQTYS2 # your Google Analytics tracking ID here
