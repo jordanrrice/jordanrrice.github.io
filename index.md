@@ -19,9 +19,9 @@
 
 ### Tableau Public Links
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Deforestation across the World](http://example.com/)
+- [Mass Transit Ridership in the USA](http://example.com/)
+- [Netflix Movies and TV Shows](http://example.com/)
 
 ---
 
