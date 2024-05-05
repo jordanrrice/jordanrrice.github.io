@@ -4,15 +4,15 @@
 
 ### Data Visualizations
 
-[Deforestation](/sample_page)
+          [Deforestation](/sample_page)
 <img src="Deforest.jpg?raw=true"/>
 
 ---
-[Mass Transit](/pdf/sample_presentation.pdf)
+          [Mass Transit](/pdf/sample_presentation.pdf)
 <img src="masstransit.jpg?raw=true"/>
 
 ---
-[Netflix Popularity](http://example.com/)
+          [Netflix Popularity](http://example.com/)
 <img src="netflix-logo.webp?raw=true"/>
 
 ---
