@@ -13,7 +13,7 @@
 
 ---
 [Netflix Popularity](http://example.com/)
-<img src="netflix-logo.jpg?raw=true"/>
+<img src="netflix-logo.webp?raw=true"/>
 
 ---
 
