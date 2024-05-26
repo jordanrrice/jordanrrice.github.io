@@ -1,6 +1,7 @@
-## This can be your internal website page / project page
+## Deforestation
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** 
+In a comprehensive project examining deforestation trends worldwide between 2000-2022, Tableau and SQL skills are leveraged to analyze and visualize data effectively. SQL queries are employed to extract and manipulate large datasets containing geographical and temporal information on forest cover. Utilizing Tableau, diverse visualizations are crafted, including time series charts illustrating deforestation rates over the years, geographical heatmaps pinpointing hotspots of deforestation, and comparative bar graphs showcasing the impact across different regions. Furthermore, interactive dashboards are developed, allowing users to explore the data dynamically, enhancing understanding and facilitating informed decision-making towards sustainable forest management.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
