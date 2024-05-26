@@ -1,6 +1,9 @@
 ## This can be your internal website page / project page
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** 
+Embarking on a project exploring the popularity of Netflix shows and movies, we dive into data analysis with Tableau and SQL. SQL helps gather and organize vast amounts of data, like viewer ratings and reviews, while Tableau turns this data into easy-to-understand visuals. Imagine colorful charts showing which shows are trending, graphs comparing viewer ratings over time, and maps revealing which regions love certain genres. 
+
+Interactive dashboards let you explore viewer demographics and genre preferences with a simple click. By using these tools, we unlock insights that guide Netflix in creating the shows and movies we love to binge-watch.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
