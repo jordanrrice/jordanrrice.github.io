@@ -4,11 +4,11 @@
 
 ### Data Visualizations
 
-[Deforestation](/sample_page)
+[Deforestation](/Deforestation.md)
 <img src="Deforest.jpg?raw=true"/>
 
 ---
-[Mass Transit](/pdf/sample_presentation.pdf)
+[Mass Transit](/MassTransit.md)
 <img src="masstransit.jpg?raw=true"/>
 
 ---
