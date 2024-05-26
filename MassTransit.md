@@ -1,6 +1,6 @@
 ## This can be your internal website page / project page
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** In a comprehensive project delving into mass transit usage within NYC's MTA subway system, Tableau and SQL skills are instrumental in analyzing and visualizing ridership data. SQL queries are deployed to aggregate and manipulate vast datasets encompassing station-specific ridership metrics and inter-station travel patterns. Leveraging Tableau, a variety of visualizations are crafted, ranging from dynamic line graphs illustrating ridership trends over time to geographical maps pinpointing station hotspots and connectivity. Additionally, interactive dashboards are developed, empowering users to explore ridership patterns, peak hours, and popular routes, thus facilitating informed decision-making for optimizing transit services and infrastructure.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
