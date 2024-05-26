@@ -8,7 +8,7 @@
 <img src="Deforest.jpg?raw=true"/>
 
 ---
-[Mass Transit](/MassTransit.md)
+[Mass Transit](MassTransit.md)
 <img src="masstransit.jpg?raw=true"/>
 
 ---
