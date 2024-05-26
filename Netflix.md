@@ -1,4 +1,4 @@
-## This can be your internal website page / project page
+## Netflix Show and Movie Popularity
 
 **Project description:** 
 Embarking on a project exploring the popularity of Netflix shows and movies, we dive into data analysis with Tableau and SQL. SQL helps gather and organize vast amounts of data, like viewer ratings and reviews, while Tableau turns this data into easy-to-understand visuals. Imagine colorful charts showing which shows are trending, graphs comparing viewer ratings over time, and maps revealing which regions love certain genres. 
