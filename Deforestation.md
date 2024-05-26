@@ -1,4 +1,4 @@
-## Deforestation
+## Deforestation across the world 
 
 **Project description:** 
 In a comprehensive project examining deforestation trends worldwide between 2000-2022, Tableau and SQL skills are leveraged to analyze and visualize data effectively. SQL queries are employed to extract and manipulate large datasets containing geographical and temporal information on forest cover. 
