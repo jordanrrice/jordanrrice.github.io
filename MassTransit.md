@@ -1,4 +1,4 @@
-## This can be your internal website page / project page
+## MTA Ridership across its' stations
 
 **Project description:** In a comprehensive project delving into mass transit usage within NYC's MTA subway system, Tableau and SQL skills are instrumental in analyzing and visualizing ridership data. SQL queries are deployed to aggregate and manipulate vast datasets encompassing station-specific ridership metrics and inter-station travel patterns. 
 
