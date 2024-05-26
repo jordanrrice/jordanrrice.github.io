@@ -4,7 +4,7 @@
 
 ### Data Visualizations
 
-[Deforestation](/Deforestation.md)
+[Deforestation](Deforestation.md)
 <img src="Deforest.jpg?raw=true"/>
 
 ---
