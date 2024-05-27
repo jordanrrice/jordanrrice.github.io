@@ -19,9 +19,9 @@
 
 ### Tableau Public Links
 
-- [Deforestation across the World](http://example.com/)
-- [Mass Transit Ridership in the USA](http://example.com/)
-- [Netflix Movies and TV Shows](http://example.com/)
+- [Deforestation across the World](https://public.tableau.com/views/Deforestation_17167327247240/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+- [Mass Transit Ridership in the USA](https://public.tableau.com/views/NYCSubwayMTARidership-2017/Summary?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+- [Netflix Movies and TV Shows](https://public.tableau.com/views/NetflixStats_17168516079510/DashboardMain?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ---
 
