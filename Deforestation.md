@@ -25,7 +25,7 @@ if (isAwesome){
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<[img src="images/dummy_thumbnail.jpg?raw=true"/](https://public.tableau.com/views/Deforestation_17167327247240/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
