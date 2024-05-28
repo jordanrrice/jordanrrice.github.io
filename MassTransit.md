@@ -24,7 +24,11 @@ if (isAwesome){
 
 ### Main Insights
 
+Comparison of ridership levels between weekdays and weekends reveals a (rather obvious) insight that weekday ridership is dramatically higher, with weekdays having 96% higher levels of passenger activity.
 
+Evaluation of ridership distribution across the five boroughs (Manhattan, Brooklyn, Queens, the Bronx, and Staten Island), also indicates that Manhattan & Brooklyn significantly outperform their counterparts. Staten Island comes in last unsurprisingly with its single line.
+
+Stations found in Midtown Manhattan (Times Square 42nd, Grand Central 42nd, & Herald Square) are solidly in the top three positions. There are only two stations in the top 10 that fall outside of Midtown Manhattan at all (Fulton Street & 14th Street Union Square), and Flushing - Main Street is the only line outside of the borough of Manhattan that comes anywhere close to the highest with less than 1/3rd of the top spots passengers.
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
