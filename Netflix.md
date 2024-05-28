@@ -15,7 +15,7 @@ FROM netflix_works AS nw
 JOIN netflix_country AS nc ON nw.title = nc.title
 JOIN netflix_cast AS ncast ON nw.title = ncast.title;
 
-}
+
 ```
 
 Follow this up by conducting classic "data cleanliness" checks against all datasets being used
