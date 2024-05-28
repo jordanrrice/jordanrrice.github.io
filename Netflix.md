@@ -5,19 +5,47 @@ Embarking on a project exploring the popularity of Netflix shows and movies, we 
 
 Interactive dashboards let you explore viewer demographics and genre preferences with a simple click. By using these tools, we unlock insights that guide Netflix in creating the shows and movies we love to binge-watch.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Data Cleaning
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+We begin by joining together data from several sources pulled from Kaggle. These sources include information provided by Netflix covering their catalog's countries of origin, duration, age ratings, release years, directors, and type of work primarily.   
 
-```javascript
-if (isAwesome){
-  return true
+```sql
+SELECT *
+FROM netflix_works AS nw
+JOIN netflix_country AS nc ON nw.title = nc.title
+JOIN netflix_cast AS ncast ON nw.title = ncast.title;
+
 }
 ```
 
-### 2. Assess assumptions on which statistical inference will be based
+Follow this up by conducting classic "data cleanliness" checks against all datasets being used
 
-```javascript
+```sql
+-- Checking for NULL values in each column
+SELECT 'netflix_works' AS dataset, COUNT(*) AS null_count
+FROM netflix_works
+WHERE title IS NULL OR <other_column> IS NULL;
+
+SELECT 'netflix_country' AS dataset, COUNT(*) AS null_count
+FROM netflix_country
+WHERE title IS NULL OR <other_column> IS NULL;
+
+SELECT 'netflix_cast' AS dataset, COUNT(*) AS null_count
+FROM netflix_cast
+WHERE title IS NULL OR <other_column> IS NULL;
+
+-- Check for inconsistent data types (example for the 'year' column)
+SELECT 'netflix_works' AS dataset, COUNT(*) AS inconsistent_type_count
+FROM netflix_works
+WHERE TRY_CAST(year AS INT) IS NULL;
+
+-- Add similar checks for other columns as needed
+
+```
+
+### 2. 
+
+```sql
 if (isAwesome){
   return true
 }
@@ -25,10 +53,14 @@ if (isAwesome){
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-<[img src="images/dummy_thumbnail.jpg?raw=true"/](https://public.tableau.com/views/NetflixStats_17168516079510/DashboardMain?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)>
+```sql
+if (isAwesome){
+  return true
+}
+```
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### 4. Using Tableau, create graphics to clearly communicate information to potential end users.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Once the graphics planned to be used are all completed (Bubble Chart, Country Map filter, Shows Added by Year, etc.) combine them together into a final dashboard. Include Netflix's logo and match the color scheme to that of the company for additional visual appeal.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Hosting the finalized project is easily done on one's Tableau Profile, using Tableau Public's freely offered services.
