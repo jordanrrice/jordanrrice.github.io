@@ -5,7 +5,7 @@ Embarking on a project exploring the popularity of Netflix shows and movies, we 
 
 Interactive dashboards let you explore viewer demographics and genre preferences with a simple click. By using these tools, we unlock insights that guide Netflix in creating the shows and movies we love to binge-watch.
 
-### 1. Data Cleaning
+### Data Cleaning
 
 We begin by joining together data from several sources pulled from Kaggle. These sources include information provided by Netflix covering their catalog's countries of origin, duration, age ratings, release years, directors, and type of work primarily.   
 
@@ -43,25 +43,12 @@ WHERE TRY_CAST(year AS INT) IS NULL;
 
 ```
 
-### 2. 
+Using Tableau's innate functionality, UNION combine all datasets to then shape into graphics for end users.
 
-```sql
-if (isAwesome){
-  return true
-}
-```
 
-### 3. 
+### Using Tableau, create graphics to clearly communicate information to potential end users.
 
-```sql
-if (isAwesome){
-  return true
-}
-```
-
-### 4. Using Tableau, create graphics to clearly communicate information to potential end users.
-
-Example screenshots pulled from dashboard below:
+(Example screenshots pulled from dashboard)
 
 When the Country Map is used as a filter within the dashboard, selecting the United States for example can show you breakdowns on information like # of Works created by year or by director. (Notice some popular names for the Directors from the US!)
 
@@ -71,7 +58,26 @@ When the Country Map is used as a filter within the dashboard, selecting the Uni
 
 Once the graphics planned to be used are all completed (Bubble Chart, Country Map filter, Shows Added by Year, etc.) combine them together into a final dashboard. Include Netflix's logo and match the color scheme to that of the company for additional visual appeal.
 
-Hosting the finalized project is easily done on one's Tableau Profile, using Tableau Public's freely offered services. See link below
+
+
+### Highlighted Insights
+
+**Production Trends by Country:**
+
+The countries with highest production rates are the US, UK & Australia.
+
+Production trends over time for different countries are relatively similar, with massive increases in # of shows/movies created over the past decade or so, which aligns with Netflix's growth as whole.
+
+Regional preference in content production appears to focus on the Anglosphere.
+
+**Genre Popularity:**
+
+Genre preferences across different regions or countries appears to be stable, with Documentaries, Comedies, and Dramas consistently appearing most often.
+
+Emerging niche markets in Southeast Asia and sub-Saharan Africa.
+
+
+Hosting the finalized project is easily done on one's Tableau Profile, using Tableau Public's freely offered services. See link below:
 
 https://public.tableau.com/views/NetflixStats_17168516079510/DashboardMain?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
