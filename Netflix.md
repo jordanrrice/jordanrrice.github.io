@@ -51,7 +51,7 @@ if (isAwesome){
 }
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. 
 
 ```sql
 if (isAwesome){
@@ -60,6 +60,14 @@ if (isAwesome){
 ```
 
 ### 4. Using Tableau, create graphics to clearly communicate information to potential end users.
+
+Example shots pulled from dashboard linked below:
+
+When the Country Map is used as a filter within the dashboard, selecting the United States for example can show you breakdowns on information like # of Works created by year or by director. (Notice some popular names for the Directors from the US!)
+
+![USANetflix](https://github.com/jordanrrice/jordanrrice.github.io/assets/26234385/487484cf-1ce7-48a7-b341-612c7980a670)
+
+![DirectorsUSA](https://github.com/jordanrrice/jordanrrice.github.io/assets/26234385/7883470a-0316-4f82-9647-ed7bf33cc2f8)
 
 Once the graphics planned to be used are all completed (Bubble Chart, Country Map filter, Shows Added by Year, etc.) combine them together into a final dashboard. Include Netflix's logo and match the color scheme to that of the company for additional visual appeal.
 
