@@ -30,5 +30,6 @@ Evaluation of ridership distribution across the five boroughs (Manhattan, Brookl
 
 Stations found in Midtown Manhattan (Times Square 42nd, Grand Central 42nd, & Herald Square) are solidly in the top three positions. There are only two stations in the top 10 that fall outside of Midtown Manhattan at all (Fulton Street & 14th Street Union Square), and Flushing - Main Street is the only line outside of the borough of Manhattan that comes anywhere close to the highest with less than 1/3rd of the top spots passengers.
 
+See link below for full dashboard on Tableau Public:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+(https://public.tableau.com/views/NYCSubwayMTARidership-2017/Summary?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
