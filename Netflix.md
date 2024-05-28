@@ -61,7 +61,7 @@ if (isAwesome){
 
 ### 4. Using Tableau, create graphics to clearly communicate information to potential end users.
 
-Example shots pulled from dashboard linked below:
+Example screenshots pulled from dashboard below:
 
 When the Country Map is used as a filter within the dashboard, selecting the United States for example can show you breakdowns on information like # of Works created by year or by director. (Notice some popular names for the Directors from the US!)
 
@@ -71,4 +71,8 @@ When the Country Map is used as a filter within the dashboard, selecting the Uni
 
 Once the graphics planned to be used are all completed (Bubble Chart, Country Map filter, Shows Added by Year, etc.) combine them together into a final dashboard. Include Netflix's logo and match the color scheme to that of the company for additional visual appeal.
 
-Hosting the finalized project is easily done on one's Tableau Profile, using Tableau Public's freely offered services.
+Hosting the finalized project is easily done on one's Tableau Profile, using Tableau Public's freely offered services. See link below
+
+https://public.tableau.com/views/NetflixStats_17168516079510/DashboardMain?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
+
