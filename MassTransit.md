@@ -63,4 +63,4 @@ Stations found in Midtown Manhattan (Times Square 42nd, Grand Central 42nd, & He
 
 See link below for full dashboard on Tableau Public:
 
-(https://public.tableau.com/views/NYCSubwayMTARidership-2017/Summary?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[Tableau Public Link](https://public.tableau.com/views/NYCSubwayMTARidership-2017/Summary?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
