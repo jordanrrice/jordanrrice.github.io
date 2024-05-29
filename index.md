@@ -1,8 +1,6 @@
-## Portfolio
+## Data Visualizations
 
 ---
-
-### Data Visualizations
 
 [Deforestation](Deforestation.md)
 <img src="Deforest.jpg?raw=true"/>
@@ -24,8 +22,6 @@
 - [Netflix Movies and TV Shows](https://public.tableau.com/views/NetflixStats_17168516079510/DashboardMain?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ---
-
-
 
 
 ---
