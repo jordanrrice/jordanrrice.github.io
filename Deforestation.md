@@ -9,7 +9,7 @@ Utilizing Tableau, diverse visualizations are crafted, including time series cha
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-```javascript
+```sql
 if (isAwesome){
   return true
 }
@@ -17,7 +17,7 @@ if (isAwesome){
 
 ### 2. Assess assumptions on which statistical inference will be based
 
-```javascript
+```sql
 if (isAwesome){
   return true
 }
@@ -31,4 +31,4 @@ if (isAwesome){
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Tableau Public Link]()
