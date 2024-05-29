@@ -12,7 +12,7 @@
 <img src="masstransit.jpg?raw=true"/>
 
 ---
-[Netflix Popularity](Netflix.md)
+[Netflix Movies & TV Shows](Netflix.md)
 <img src="netflix-logo.webp?raw=true"/>
 
 ---
