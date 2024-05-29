@@ -79,6 +79,6 @@ Emerging niche markets in Southeast Asia and sub-Saharan Africa.
 
 Hosting the finalized project is easily done on one's Tableau Profile, using Tableau Public's freely offered services. See link below:
 
-(https://public.tableau.com/views/NetflixStats_17168516079510/DashboardMain?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[Tableau Public Link](https://public.tableau.com/views/NetflixStats_17168516079510/DashboardMain?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
