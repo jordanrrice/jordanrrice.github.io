@@ -6,21 +6,52 @@ Leveraging Tableau, a variety of visualizations are crafted, ranging from dynami
 
 ### Data Cleaning
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+```sql
+--Combine initial datasets with station information, then those containing ridership by station for weekdays and weekends.
+
+SELECT *
+FROM mta_stations AS s
+JOIN mta_2017weekend AS w ON s.station = w.station
+JOIN mta_2017weekday AS d ON s.station = d.station;
+```
 
 ```sql
-if (isAwesome){
-  return true
-}
+--Follow this with typical validation checks for potential null values, duplicates, and/or irrational outliers.
+
+SELECT COUNT(*) AS null_count
+FROM mta_combined
+WHERE station IS NULL OR weekend_column IS NULL OR weekday_column IS NULL;
+
+
+--Query checking for potential duplicates 
+SELECT COUNT(*) - COUNT(DISTINCT station) AS duplicate_count
+FROM combined_table;
+
+--Query removing duplicates
+DELETE FROM mta_combined
+WHERE ROWID NOT IN (SELECT MIN(ROWID) FROM combined_table GROUP BY station);
+
+--Query checking for potential outliers
+SELECT station, MAX(weekend) AS max_weekend_riders, MIN(weekday) AS min_weekday_riders
+FROM mta_combined
+GROUP BY station;
+
+-- Example of removing potential outliers
+DELETE FROM mta_combined
+WHERE weekend > 1000000 OR weekday > 1000000;
+
 ```
+
+Using Tableau's innate functionality, UNION combine all datasets to then shape into graphics for end users.
 
 ### Using Tableau
 
-```sql
-if (isAwesome){
-  return true
-}
-```
+Using Tableau, create graphics to clearly communicate information to potential end users.
+(Example screenshot pulled from dashboard)
+
+![MTARidership2017](https://github.com/jordanrrice/jordanrrice.github.io/assets/26234385/cf1ef8bb-f4bf-4990-9e33-11851ed9fd00)
+
+**When the Treemap is used as a filter within the dashboard, selecting an individual station (or multiple using CTRL+click) will highlight the corresponding location on the map.**
 
 ### Main Insights
 
