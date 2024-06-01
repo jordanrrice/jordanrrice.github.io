@@ -1,6 +1,6 @@
 ## Deforestation across the world 
 
-**Project description:** 
+**Description:** 
 In a comprehensive project examining deforestation trends worldwide between 2000-2022, Tableau and SQL skills are leveraged to analyze and visualize data effectively. SQL queries are employed to extract and manipulate large datasets containing geographical and temporal information on forest coverage changes over this period. 
 
 Utilizing Tableau, diverse visualizations are crafted, including bubble charts illustrating deforestation levels across different countries & subnational regions, treemaps demonstrating coverage loss between countries, and comparative bar graphs showcasing the relationship between coverage gain and carbon emissions. Furthermore, interactive dashboards are developed, allowing users to explore the data dynamically, enhancing understanding and facilitating informed decision-making towards sustainable forestry management.
