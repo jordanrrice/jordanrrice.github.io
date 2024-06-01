@@ -46,13 +46,18 @@ HAVING
 
 ### Using Tableau
 
+Using Tableau, created graphics to clearly communicate information to potential end users. (Example screenshot pulled from dashboard)
 
+![TreemapDeforest](https://github.com/jordanrrice/jordanrrice.github.io/assets/26234385/f3103b5e-629e-490b-9d27-70df22e99af6)
+
+**When the "Continents" box is used as a filter within the dashboard, selecting specific continent will bring up the corresponding countries and subnational regions in the Bubble Chart and Tree Map.**
 
 ### Main Insights
 
+There was not a marked increase in deforestation levels between 2000 and 2022 within the dataset, on the contrary a small decrease was noted in many of the most significant countries overall (Russia, Brazil, and Indonesia for example each had decreases in the single digit %s.) Potential drivers for this include international agreements such as the REDD+ (Reducing Emissions from Deforestation and Forest Degradation) and the Paris Agreement, as well as national policy changes within the countries themselves.
 
+South America, sub-Saharan Africa, and Southeast Asia were the most outsized influences for high levels of tree coverage loss, with the biggest offenders relative to population size being Brazil, Indonesia, and the Democratic Republic of the Congo. Agricultural expansion is the likeliest source of blame for these countries' continued actions of large scale tree felling (including clearing land for grazing and ranching cattle, as well as palm oil and soy production.)
 
-
-
+Population growth is the last major potential driver that can be inferred from the subnational information in the dataset. For the United States in particular, several states in the Sun Belt region (Georgia, Alabama, South Carolina, Texas, Florida, and Louisiana) all had outsized levels of coverage loss. This region is experiencing continued high levels of population growth and suburban development leads many of their urban areas to clear cut forests in order to make room for SFH style housing.
 
 [Tableau Public Link](https://public.tableau.com/shared/FS2C53QSP?:display_count=n&:origin=viz_share_link)
