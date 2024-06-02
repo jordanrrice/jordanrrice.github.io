@@ -1,4 +1,4 @@
-## Data Visualizations
+## Project Writeups & Data Visualizations
 
 ---
 
