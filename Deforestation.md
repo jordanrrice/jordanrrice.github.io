@@ -60,4 +60,5 @@ South America, sub-Saharan Africa, and Southeast Asia were the most outsized inf
 
 Population growth is the last major potential driver that can be inferred from the subnational information in the dataset. For the United States in particular, several states in the Sun Belt region (Georgia, Alabama, South Carolina, Texas, Florida, and Louisiana) all had outsized levels of coverage loss. This region is experiencing continued high levels of population growth and suburban development leads many of their urban areas to clear cut forests in order to make room for SFH style housing.
 
-[Tableau Public Link]([(https://public.tableau.com/views/Deforestation_17167327247240/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)])
+[Tableau Public Link]((https://public.tableau.com/views/Deforestation_17167327247240/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link))
+
